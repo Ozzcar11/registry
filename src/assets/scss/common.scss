@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a, button {
+  font: inherit;
+}
+
+.container {
+  width: 1460px;
+  margin: 0 auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+}
+
+h1 {
+  font-size: 96px;
+}
+h2 {
+  font-size: 42px;
+}
+h3 {
+  font-size: 32px;
+}
